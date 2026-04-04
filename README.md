@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-    <img src="./profile/stats.svg" alt="tada-zako's GitHub stats" />
-    <img src="./profile/top-langs.svg" alt="tada-zako's top languages" />
+    <img height=200 src="./profile/stats.svg" alt="tada-zako's GitHub stats" />
+    <img height=200 src="./profile/top-langs.svg" alt="tada-zako's top languages" />
 </p>
 
 
