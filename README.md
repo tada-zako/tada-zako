@@ -1,4 +1,4 @@
-<img align="center" src="./assets/Kochiya-Sanae-ascii.png" alt="tada-zako">
+<img align="center" src="./assets/Kochiya-Sanae-ascii.png" alt="tada-zako" />
 
 <h1 align="center">
   Hi, I'm <a herf="https://tada-zako.top" target="_blank">tada-zako<a>!
