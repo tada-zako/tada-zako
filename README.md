@@ -8,7 +8,7 @@
   Welcome to my GitHub profile~ OwO
 </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tada-zako)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="./profile/stats.svg" alt="tada-zako's GitHub stats" />
 
 <p align="center">
   ❤️ <i>I'm currently working on Software, AI Agents, and Backend Architecture.</i>
