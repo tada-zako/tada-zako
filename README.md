@@ -8,8 +8,18 @@
   Welcome to my GitHub profile~ OwO
 </h3>
 
-<img align="center" src="./profile/stats.svg" alt="tada-zako's GitHub stats" />
+<p align="center">
+    <img src="./profile/stats.svg" alt="tada-zako's GitHub stats" />
+    <img src="./profile/top-langs.svg" alt="tada-zako's top languages" />
+</p>
+
 
 <p align="center">
   ❤️ <i>I'm currently working on Software, AI Agents, and Backend Architecture.</i>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="github-snake" src="./profile/github-snake.svg" />
+</picture>
