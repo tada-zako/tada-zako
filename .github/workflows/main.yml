@@ -26,15 +26,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide=stars&theme=transparent&hide_rank=true
           path: profile/stats.svg
-          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=6&theme=transparent&card_width=320&layout=compact&count_private=true
+          options: username=${{ github.repository_owner }}&langs_count=6&theme=transparent&card_width=320&layout=compact
           path: profile/top-langs.svg
-          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 生成贪吃蛇游戏
       - name: Generate snake game
