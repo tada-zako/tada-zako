@@ -1,8 +1,8 @@
 
       <svg
         width="320"
-        height="140"
-        viewBox="0 0 320 140"
+        height="165"
+        viewBox="0 0 320 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="263.39"
+          width="117.56"
           height="8"
           fill="#3572A5"
         />
@@ -138,21 +138,51 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="263.39"
+          x="117.56"
           y="0"
-          width="14.04"
+          width="76.24"
           height="8"
-          fill="#384d54"
+          fill="#3178c6"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="267.43"
+          x="193.8"
           y="0"
-          width="12.57"
+          width="67.16"
           height="8"
-          fill="#012456"
+          fill="#41b883"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="260.96000000000004"
+          y="0"
+          width="17.88"
+          height="8"
+          fill="#663399"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="268.84000000000003"
+          y="0"
+          width="10.8"
+          height="8"
+          fill="#e34c26"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="269.64000000000004"
+          y="0"
+          width="10.38"
+          height="8"
+          fill="#384d54"
         />
       
       
@@ -161,21 +191,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 97.55%
+        Python 43.54%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 1.50%
+        TypeScript 28.24%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Vue 24.87%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 0.95%
+        CSS 2.92%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 0.30%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Dockerfile 0.14%
       </text>
     </g>
   </g></g>
